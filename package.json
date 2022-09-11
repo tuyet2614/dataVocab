@@ -34,6 +34,7 @@
     "react-native-svg": "^13.1.0",
     "react-native-swift": "^1.2.3",
     "react-native-track-player": "^3.1.0",
+    "react-native-tts": "^4.1.0",
     "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
